@@ -4,7 +4,7 @@ const projets = {
         title: "Création d'un court métrage avec Blender",
         description: "Dans le cadre de notre première année en école d'ingénieurs, nous avons entrepris un projet de création de court métrage en utilisant le logiciel Blender. Ce projet nous a permis d'explorer et d'appliquer divers concepts de modélisation 3D, d'animation et de rendu, tout en développant nos compétences en travail d'équipe et en gestion de projet.",
         conclusion: "Ce projet nous a permis d'acquérir une expérience précieuse dans l'utilisation de Blender pour la création de contenus animés en 3D. Nous avons également amélioré nos compétences en collaboration, en planification de projet et en résolution de problèmes. En fin de compte, nous sommes fiers du résultat final et des compétences que nous avons développées tout au long de ce processus. ",
-        lien: "Switchception.mp4",
+        lien: "https://youtu.be/_Sw_4bQjL5I",
         img: "intro.gif"
     },
     2: {
